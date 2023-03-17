@@ -1,5 +1,5 @@
 <div
-  style="display: flex; flex-direction: column; height: 741px;"
+  style="display: flex; flex-direction: column; height: flex;"
   class="Canvas"
 >
   <div style="flex-grow: 1; display: flex;" class="Canvas Body">
