@@ -2,16 +2,16 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Портфолио дизайнера</title>
+<title>UX UI DESIGNER</title>
 </head>
 <body>
 <header>
-<h1 style="text-align:center;">Портфолио дизайнера</h1>
+<h1 style="text-align:center;">UX UI DESIGNER</h1>
 </header>
 <main>
 <img src="path/to/my/photo.jpg" alt="Мое фото">
-<h2>Обо мне</h2>
-<p>Здесь я могу рассказать немного о себе, своем опыте и достижениях. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed quis elit nec augue bibendum iaculis. Sed euismod diam a turpis fermentum, sit amet tincidunt turpis commodo. Sed commodo mauris sit amet odio ultrices, at elementum enim pharetra. </p>
+<h2>Anastasiya Sapega</h2>
+<p> With 3 years of experience in UX/UI design, I have a proven track record of designing innovative and user-friendly products for clients in CIS and Europe. I have also worked as a product designer in a leading fintech company, where I gained valuable experience in creating customer-centric solutions. With my expertise in design thinking and user research, I can help your company create products that not only look great but also meet the needs of your users </p>
 </main>
 </body>
 </html>
