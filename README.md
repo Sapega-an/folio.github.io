@@ -1,16 +1,21 @@
-<html>
+<html lang="en">
 <head>
-	<title>Заголовок страницы</title>
-	<style type="text/css">
-		h1 {
-			text-align: center;
-			width: 100%;
-			font-size: calc(10px + 5vw);
-		}
-	</style>
+<meta charset="UTF-8">
+<title>Портфолио дизайнера</title>
+<style>
+header {
+  width: 100%;
+  text-align: center;
+}
+h1 {
+  font-size: calc(1em + 1vw);
+}
+</style>
 </head>
-
-
+<body>
+<header>
+<h1>Портфолио дизайнера</h1>
+</header>
 <main>
 <img src="https://github.com/Sapega-an/folio.github.io/blob/ec67087df5857dd4d5c70cf76b776192eca8b77b/Screenshot_1.png" alt="Мое фото" style="border-radius: 50%; height: 80px; width: 80px;">
 <h2>Anastasiya Sapega</h2>
