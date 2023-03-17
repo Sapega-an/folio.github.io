@@ -4,7 +4,7 @@
 </head>
 <body>
 <header>
-<h1>Портфолио дизайнера</h1>
+<h1>UX UI DESIGNER</h1>
 </header>
 <main>
 <img src="https://github.com/Sapega-an/folio.github.io/blob/ec67087df5857dd4d5c70cf76b776192eca8b77b/Screenshot_1.png" alt="Мое фото" style="border-radius: 50%; height: 80px; width: 80px;">
