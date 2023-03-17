@@ -1,16 +1,6 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Портфолио дизайнера</title>
-<style>
-header {
-  width: 100%;
-  text-align: center;
-}
-h1 {
-  font-size: calc(1em + 1vw);
-}
-</style>
 </head>
 <body>
 <header>
