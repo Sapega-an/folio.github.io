@@ -1,8 +1,11 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>UX UI DESIGNER</title>
-<style>
+</head>
+<body>
+<header>
+<h1 
+    <style>
 header {
   width: 100%;
   text-align: center;
@@ -10,11 +13,7 @@ header {
 h1 {
   font-size: calc(1em + 1vw);
 }
-</style>
-</head>
-<body>
-<header>
-<h1 style="text-align:center;">UX UI DESIGNER</h1>
+</style>;">UX UI DESIGNER</h1>
 </header>
 <main>
 <img src="https://github.com/Sapega-an/folio.github.io/blob/ec67087df5857dd4d5c70cf76b776192eca8b77b/Screenshot_1.png" alt="Мое фото" style="border-radius: 50%; height: 80px; width: 80px;">
