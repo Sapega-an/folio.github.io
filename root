@@ -4,8 +4,8 @@
     <div class="frame1240-frame1240">
       <div class="frame1240-frame9">
         <img
-          src="/playground_assets/ellipse12223-v8m-200h.png"
           alt="Ellipse12223"
+          src="/playground_assets/ellipse12223-v8m-200h.png"
           class="frame1240-ellipse1"
         />
         <p class="frame1240-text textarea">
@@ -56,29 +56,29 @@
       <div class="frame1240-frame10">
         <div class="frame1240-frame28s-instagram">
           <img
-            src="/playground_assets/subtract2223-8ysj.svg"
             alt="Subtract2223"
+            src="/playground_assets/subtract2223-8ysj.svg"
             class="frame1240-subtract button"
           />
         </div>
         <div class="frame1240-frame28s-telegram">
           <img
-            src="/playground_assets/subtract2223-9aco.svg"
             alt="Subtract2223"
+            src="/playground_assets/subtract2223-9aco.svg"
             class="frame1240-subtract1"
           />
         </div>
         <div class="frame1240-frame28s-telegram1">
           <img
-            src="/playground_assets/subtract2223-etjf.svg"
             alt="Subtract2223"
+            src="/playground_assets/subtract2223-etjf.svg"
             class="frame1240-subtract2"
           />
         </div>
       </div>
-      <h1 class="frame1240-text25 textarea headline">
-        <span>ux ui designer</span>
-        <br />
+      <h1 class="frame1240-text25 headline textarea">
+        <span class="frame1240-text26">ux ui designer</span>
+        <br class="frame1240-text27" />
         <br />
       </h1>
     </div>
