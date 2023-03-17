@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>UX UI DESIGNER</title>
 </head>
 <body>
 <header>
